@@ -54,7 +54,7 @@ settings.tk-desktop.project:
     name: Creative Tools
   - matches:
     - "*Hiero*"
-    name: Editorial Tools
+    name: DCC Apps
   - matches:
     - "*Alias*"
     - "*VRED*"
